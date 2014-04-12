@@ -2,7 +2,7 @@
   "name": "mandarin",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "A short description of your syntax theme",
+  "description": "Mandarin, a colorful syntax theme for Atom.",
   "repository": "https://github.com/jacobdeichert/mandarin",
   "license": "MIT",
   "engines": {

@@ -1,7 +1,7 @@
 Mandarin Syntax Theme
 ==========================
 
-Mandarin, a syntax theme for Atom.
+Mandarin, a colorful syntax theme for Atom.
 
 
 Syntax Highlighting Examples
