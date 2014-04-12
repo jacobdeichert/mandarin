@@ -1,3 +1,21 @@
-.DS_Store
+#########################
+# windows and mac stuff #
+#########################
+*.DS_Store
+*.DS_Store?
+*._*
+*.Spotlight-V100
+*.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+
+##############
+# atom stuff #
+##############
 npm-debug.log
 node_modules
+storage/
