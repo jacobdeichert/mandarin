@@ -4,8 +4,8 @@ Mandarin Syntax Theme
 Mandarin, a colorful syntax theme for Atom.
 
 
-Syntax Highlighting Examples
-----------------------------
+Screenshots
+-----------
 
 ### JavaScript
 ![js](https://cloud.githubusercontent.com/assets/1631044/2688148/0ed45aee-c286-11e3-94c7-a7a1f2bcc339.png)
