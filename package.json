@@ -1,9 +1,9 @@
 {
   "name": "mandarin",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A short description of your syntax theme",
-  "repository": "https://github.com/atom/mandarin",
+  "repository": "https://github.com/jacobdeichert/mandarin",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
