@@ -1,5 +1,5 @@
 Mandarin Syntax Theme
-==========================
+=====================
 
 Mandarin, a dark syntax theme for Atom.
 
