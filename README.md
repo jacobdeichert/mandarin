@@ -17,3 +17,12 @@ Screenshots
 
 ### CSS
 ![css screenshot](https://cloud.githubusercontent.com/assets/1631044/2688445/3b1bf4a8-c2a0-11e3-9585-f88f15ba6df6.png)
+
+
+Installing
+----------
+
+1. Go to **Atom > Preferences...**
+2. Select the **Themes** tab
+3. Search for **mandarin**
+4. Code!
