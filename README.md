@@ -1,7 +1,7 @@
 Mandarin Syntax Theme
 =====================
 
-[Mandarin](https://atom.io/packages/mandarin-syntax), a dark syntax theme for [Atom](https://atom.io)
+[Mandarin](https://atom.io/themes/mandarin-syntax), a dark syntax theme for [Atom](https://atom.io)
 
 
 Installing
