@@ -16,7 +16,7 @@ Installing
 Problems
 --------
 
-If you come across any problems, add your [issue here](https://github.com/jacobdeichert/mandarin-syntax/issues) or [tweet me](https://twitter.com/jakedeichert).
+If you come across any problems, add your [issue here](https://github.com/jakedeichert/mandarin-syntax/issues) or [tweet me](https://twitter.com/jakedeichert).
 
 
 
