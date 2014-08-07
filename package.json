@@ -3,12 +3,12 @@
   "theme": "syntax",
   "version": "0.3.0",
   "description": "Mandarin, a dark syntax theme for Atom.",
-  "repository": "https://github.com/jacobdeichert/mandarin-syntax",
+  "repository": "https://github.com/jakedeichert/mandarin-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
   "bugs": {
-    "url": "https://github.com/jacobdeichert/mandarin-syntax/issues"
+    "url": "https://github.com/jakedeichert/mandarin-syntax/issues"
   }
 }
