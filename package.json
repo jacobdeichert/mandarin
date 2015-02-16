@@ -1,7 +1,7 @@
 {
   "name": "mandarin-syntax",
   "theme": "syntax",
-  "version": "0.5.2",
+  "version": "1.0.0",
   "description": "Mandarin, a dark monokai-like syntax theme for Atom",
   "repository": "https://github.com/jakedeichert/mandarin-syntax",
   "license": "MIT",
