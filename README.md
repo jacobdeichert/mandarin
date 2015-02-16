@@ -1,7 +1,7 @@
 Mandarin Syntax Theme
 =====================
 
-[Mandarin](https://atom.io/themes/mandarin-syntax), a dark syntax theme for [Atom](https://atom.io)
+[Mandarin](https://atom.io/themes/mandarin-syntax), a dark monokai-like syntax theme for [Atom](https://atom.io)
 
 
 Installing
@@ -33,4 +33,3 @@ Screenshots
 
 ### CSS
 ![css screenshot](https://cloud.githubusercontent.com/assets/1631044/2688445/3b1bf4a8-c2a0-11e3-9585-f88f15ba6df6.png)
-
